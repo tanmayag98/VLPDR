@@ -1,0 +1,12 @@
+2017-05-03 18:37:42,561 - [INFO] - from org.nd4j.linalg.factory.Nd4jBackend in main
+                
+Loaded [CpuBackend] backend
+
+2017-05-03 18:37:42,807 - [INFO] - from org.nd4j.nativeblas.NativeOpsHolder in main
+                
+Number of threads used for NativeOps: 4
+
+2017-05-03 18:37:49,175 - [INFO] - from org.nd4j.nativeblas.Nd4jBlas in main
+                
+Number of threads used for BLAS: 4
+
